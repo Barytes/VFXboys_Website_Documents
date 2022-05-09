@@ -6,39 +6,39 @@
 
 登录管理员账号-->顶条菜单“自定义”
 
-![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/自定义.png)
+![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/自定义.png)
 
 首页区域-->大标题区域-->更换图片
 
-![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/首页区域.jpg)
+![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/首页区域.jpg)
 
-![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/大标题区域.jpg)
+![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/大标题区域.jpg)
 
-![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/大标题更换图片.jpg)
+![image-20220509104442688](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/大标题更换图片.jpg)
 
 ### 1.2 首页Features简介替换
 
-![image-20220509103014318](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/Features.png)
+![image-20220509103014318](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/Features.png)
 
 ​	自定义-->首页区域-->Features区域-->编辑3个Features
 
-​	![首页Futures](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/首页Futures.jpg)	![首页Futures](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/编辑Features.jpg)
+​	![首页Futures](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/首页Futures.jpg)	![首页Futures](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/编辑Features.jpg)
 
 ### 1.3 文档补充：关于我们、加入我们、广告合作、用户协议、隐私政策（脚注）
 
-![footnote](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/footnote.jpg)
+![footnote](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/footnote.jpg)
 
 仪表盘-->页面：所有页面-->编辑对应页面
 
-![页面](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/页面.jpg)
+![页面](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/页面.jpg)
 
 ## 1.4 更换精选视频
 
 仪表盘-->页面：所有页面-->首页，编辑
 
-![页面-首页](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/页面-首页.jpg)
+![页面-首页](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/页面-首页.jpg)
 
-![精选编辑](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/精选编辑.png)
+![精选编辑](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/精选编辑.png)
 
 ## 2. 电商
 
@@ -48,21 +48,21 @@
 
 仪表盘-->产品：新增
 
-![新增产品](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/新增产品.jpg)
+![新增产品](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/新增产品.jpg)
 
 填写各项信息：产品名称、产品介绍、产品类别、产品标签、产品图片、产品相册、虚拟/可下载、价格、下载文件等
 
-![新增产品](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/新增产品信息.jpg)
+![新增产品](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/新增产品信息.jpg)
 
 #### 2.1.2 批量导入
 
 仪表盘-->产品：全部产品-->导入
 
-![导入](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/导入.jpg)
+![导入](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/导入.jpg)
 
 按提示导入csv文件
 
-![导入](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/导入csv.jpg)
+![导入](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/导入csv.jpg)
 
 **产品 CSV 编辑规则可见：[Product CSV Import Schema · woocommerce/woocommerce Wiki · GitHub](https://github.com/woocommerce/woocommerce/wiki/Product-CSV-Import-Schema#csv-columns-and-formatting)**
 
@@ -84,9 +84,9 @@
 
 在新服务器安装Wordpress环境-->安装All-in-One-WP-Migration插件-->导入Wordpress备份文件
 
-![WPM](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WPM.jpg)
+![WPM](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WPM.jpg)
 
-![WPM](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WPM导入.jpg)
+![WPM](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WPM导入.jpg)
 
 #### 3.1.2 云厂商的迁移服务
 
@@ -96,71 +96,71 @@
 
 参考服务器所在云厂商的文档（如何安装 SSL 证书）
 
-![SSL](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/SSL.jpg)
+![SSL](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/SSL.jpg)
 
 ### 3.3 域名注册和备案
 
 参考服务器所在云厂商的文档（域名注册）
 
-![域名注册](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/域名注册.jpg)
+![域名注册](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/域名注册.jpg)
 
 ### 3.4 更换管理员账号和email
 
 仪表盘-->设置-->常规
 
-![设置常规](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/设置常规.png)
+![设置常规](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/设置常规.png)
 
 修改管理员电子邮箱-->保存设置-->在邮件中确认
 
-![管理员email](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/管理员email.png)
+![管理员email](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/管理员email.png)
 
-![email保存](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/email保存.jpg)
+![email保存](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/email保存.jpg)
 
 ### 3.5 收款账号设置
 
 仪表盘-->WooCommerce插件-->设置-->付款
 
-![WC设置](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WC设置.jpg)
+![WC设置](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WC设置.jpg)
 
 #### 3.5.1 支付宝设置
 
 用收款账号访问[支付宝开放平台 (alipay.com)](https://open.alipay.com/)，按提示[创建应用 - 支付宝文档中心 (alipay.com)](https://opendocs.alipay.com/open/200/105310)，设置应用网关地址，获取支付宝AppID、应用私钥、支付宝公钥[配置密钥 - 支付宝文档中心 (alipay.com)](https://opendocs.alipay.com/open/02nlga)
 
-![APPID](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/APPID.jpg)
+![APPID](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/APPID.jpg)
 
 在WooCommerce插件付款设置中，选择支付宝-->管理，填写AppID、应用私钥、支付宝公钥，保存设置
 
-![支付宝管理](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/支付宝管理.jpg)
+![支付宝管理](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/支付宝管理.jpg)
 
-![WC-APPID](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WC-APPID.jpg)
+![WC-APPID](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WC-APPID.jpg)
 
 若需要支付测试，先在支付宝开放平台-->控制台-->[沙箱](https://open.alipay.com/dev/workspace)中获取沙箱应用，在WooCommerce插件设置中勾选支付宝沙盒模式，填写沙箱应用的AppID、应用私钥、公钥，保存设置
 
-![支付宝控制台](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/支付宝控制台.jpg)
+![支付宝控制台](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/支付宝控制台.jpg)
 
-![WC-支付宝沙盒](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WC-支付宝沙盒.jpg)
+![WC-支付宝沙盒](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WC-支付宝沙盒.jpg)
 
 #### 3.5.2 微信支付设置（未验证）
 
 仪表盘-->WooCommerce插件-->设置-->付款-->微信支付设置-->启用此付款网关
 
-![WC-微信支付](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WC-微信支付.jpg)
+![WC-微信支付](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WC-微信支付.jpg)
 
 在微信公众号/微信小程序/微信商户号中（三选一）获取AppID、密钥，并填写在对应设置中，保存设置
 
-![WC-微信AppID](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WC-微信AppID.jpg)
+![WC-微信AppID](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WC-微信AppID.jpg)
 
 ### 3.6 验证码账号设置（联系我们表格）
 
-![联系cap](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/联系cap.jpg)
+![联系cap](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/联系cap.jpg)
 
 仪表盘-->WPForm插件-->设置-->验证码
 
-![WPF验证码](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WPF验证码.jpg)
+![WPF验证码](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WPF验证码.jpg)
 
 按提示选择hCaptcha或reCaptcha，创建账号、填写站点密钥和私钥、保存设置
 
-![2Cap](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/2Cap.jpg)
+![2Cap](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/2Cap.jpg)
 
 ### 3.7 为登录、注册添加验证码
 
@@ -182,7 +182,7 @@
 
 使用Yoast SEO插件（或其他SEO插件），请参阅相关教程
 
-![Yoast](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/Yoast.jpg)
+![Yoast](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/Yoast.jpg)
 
 ### 4.2 网页速度优化
 
@@ -194,27 +194,27 @@
 
 仪表盘——>插件——>启用WP Open Social插件
 
-![WPOS启用](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WPOS启用.jpg)
+![WPOS启用](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WPOS启用.jpg)
 
 转到WP Open Socail插件设置——>登录账号，启用需要的社交平台，访问？链接获取AppID和密钥，填写并保存
 
-![WPOS登录](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WPOS登录.jpg)
+![WPOS登录](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WPOS登录.jpg)
 
-![qq互联](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/qq互联.jpg)
+![qq互联](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/qq互联.jpg)
 
 ### 5.2 分享到社交平台
 
 WP Open Socail插件设置——>分享服务，勾选需要的社交平台并保存设置
 
-![WPOS分享](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/WPOS分享.jpg)
+![WPOS分享](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/WPOS分享.jpg)
 
 ### 5.3 反垃圾评论
 
 仪表盘-->插件-->启用Akismet 反垃圾评论插件，注册Akismet账号并设置
 
-![Aki插件](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/Aki插件.jpg)
+![Aki插件](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/Aki插件.jpg)
 
-![Aki设置](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/doc/imgs/Aki设置.jpg)
+![Aki设置](https://github.com/Barytes/VFXboys_Website_Documents/blob/main/todos/imgs/Aki设置.jpg)
 
 ### 5.4 SMTP服务设置
 
