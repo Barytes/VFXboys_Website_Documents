@@ -7,3 +7,9 @@
 仓库结构：
 - todos：待办事项
 - doc：使用文档
+
+网站环境：
+- WordPress 5.7.1
+- Nginx 1.18.0
+- PHP 7.4.23
+- MariaDB 10.5.6
