@@ -9,7 +9,7 @@
 - doc：使用文档
 
 网站环境：
-- WordPress 5.7.1
+- WordPress 5.9.3
 - Nginx 1.18.0
 - PHP 7.4.23
 - MariaDB 10.5.6
